@@ -1,0 +1,1 @@
+This repository contains a minimal Retrieval-Augmented Generation (RAG) demo built with LangChain. It uses FAISS as the local vector index and HuggingFace sentence-transformer embeddings. The goal is to provide an end-to-end example: ingest a small set of documents, build an index, and answer questions grounded in those documents.

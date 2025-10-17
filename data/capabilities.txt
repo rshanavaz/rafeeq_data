@@ -1,0 +1,7 @@
+Capabilities:
+- Load `.txt` and `.md` files from the `data/` directory.
+- Split documents into overlapping chunks for better retrieval.
+- Embed chunks using a small sentence-transformer model.
+- Store and load a FAISS vector index locally under `store/faiss_index`.
+- Query with either OpenAI, Ollama, or a stub fallback LLM for offline smoke tests.
+- Print the top retrieved sources alongside the answer.
