@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/
+.DS_Store
+
+# Data
+/data/pdfs/*
+!data/pdfs/.gitkeep
+
+# Python cache
+src/**/__pycache__/

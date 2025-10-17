@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/rag_pgvector/config.py
+src/rag_pgvector/llm.py
+src/rag_pgvector/vectorstore.py
+src/rag_pgvector.egg-info/PKG-INFO
+src/rag_pgvector.egg-info/SOURCES.txt
+src/rag_pgvector.egg-info/dependency_links.txt
+src/rag_pgvector.egg-info/top_level.txt
+src/rag_pgvector/utils/db.py
+src/rag_pgvector/utils/loader.py
+src/rag_pgvector/utils/text_splitter.py
